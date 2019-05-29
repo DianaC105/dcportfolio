@@ -1,0 +1,55 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24 px;
+    padding: 25px;
+}
+
+.parallax{
+    background: url('images/techpic.jpeg') no-repeat center;
+    background-size:cover;
+    background-attachment:fixed;
+    height:500px;
+   
+
+}
+
+.computer{
+    background: url('images/backgroundTwo.jpeg') no-repeat center;
+    background-size:cover;
+    background-attachment:fixed;
+    height:500px;
+
+}
+
+.dcpics{
+    background: url('images/yellow.jpeg') no-repeat center;
+    background-size:cover;
+    background-attachment:fixed;
+    height:500px;
+}
+
+body{
+    background: url('images/dcpic.png') no-repeat center;
+    background-size:cover;
+    background-attachment:fixed;
+    height:500px;
+
+}
+
+.nav{
+    background-color: lightcoral;
+    color:darkgrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+footer{
+    background-color:lightcoral;
+    color:darkgrey;
+    align-content: center;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+}

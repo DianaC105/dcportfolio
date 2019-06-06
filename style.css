@@ -194,3 +194,30 @@ footer{
     top:85%;
     left:90%;
 }
+
+.jumbotron{
+
+    text-align: center;
+    opacity: 40%;
+    background: rgba(78, 76, 76, 0.781);
+}
+.container{
+    text-align: center;
+    opacity: 40%;
+    background: rgba(78, 76, 76, 0.781);
+    color: #f9f9f9;
+}
+
+.circ{
+    font-size: 5px;
+    size: 25px;
+
+}
+
+.list{
+    align-content: center;
+}
+.fab{
+    align-content: center;
+    color:  lightcoral;
+}
